@@ -5,5 +5,5 @@ public class anything {
 	System.out.println("Hello, GitHub!");
 	// Practicing Git commit for SCD lab
 
-
+// Pull practice for SCD lab
 }}
