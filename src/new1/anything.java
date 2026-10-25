@@ -3,8 +3,7 @@ package new1;
 public class anything {
 	public static void main(String[] args) {
 	System.out.println("Hello, GitHub!");
-	// Practicing Git commit for SCD lab
+	// Lab 01: Demonstrating commit through Eclipse
 
-// Pull practice for SCD lab
-	// Feature branch change for SCD lab
+
 }}
